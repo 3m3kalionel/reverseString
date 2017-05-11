@@ -1,0 +1,25 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "a repository for a function that takes in a string and reverses it or returns some other ouputs as stated in the tests",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "jasmine spec/tests.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3m3kalionel/reverseString.git"
+  },
+  "keywords": [
+    "jasmine"
+  ],
+  "author": "Emeka Okoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3m3kalionel/reverseString/issues"
+  },
+  "homepage": "https://github.com/3m3kalionel/reverseString#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
